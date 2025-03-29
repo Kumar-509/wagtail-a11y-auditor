@@ -163,7 +163,7 @@ I want to make the web more inclusive, and Wagtail’s community-driven ethos in
 
 Contact:
 - Email: kumarcse42@gmail.com
-- GitHub: https://github.com/Kumar-509
+- GitHub: https://github.com/Kumar-509/wagtail-a11y-auditor
 - IRC: Kumar (#wagtail, #gsoc)
 
 Why Wagtail Should Accept This:
