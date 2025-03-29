@@ -110,6 +110,7 @@ Example Workflow:
 4. Schedule and Milestones
 Duration: 12 weeks (May 26 – August 18, 2025, ~350 hours).
 Size: Medium difficulty, ~350 hours.
+**Mentors: Lead: TBC - Sage Abdullah, Support: TBC, Support: TBC**
 Pre-Coding: Research WCAG rules, finalize API (April-May 2025).
 
 4.1 Core Framework Development (6 weeks, May 26 – July 6)
